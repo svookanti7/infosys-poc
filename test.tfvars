@@ -1,6 +1,6 @@
 region = "eu-west-2"
-access_key = "AKIAIHWILWH4LSCUDFRQ"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 block-range = "172.31.0.0/16"
 vpc="Test-VPC"
 subnet="Test-subnet"
